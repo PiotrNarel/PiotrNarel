@@ -1,9 +1,25 @@
-### Hi there 👋
+
+```
+ _______ __      __   __                      __                      
+|   |   |__|    |  |_|  |--.-----.----.-----.|  |                     
+|       |  |    |   _|     |  -__|   _|  -__||__|                     
+|___|___|__|    |____|__|__|_____|__| |_____||__|  
+```
+
+
+
+Please visit my pages:
+- https://dev-notes.pl
+- https://piotrnarel.pl
+
+
 
 <!--
 **PiotrNarel/PiotrNarel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+### Hi there 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

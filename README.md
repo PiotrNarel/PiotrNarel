@@ -6,14 +6,6 @@
 |___|___|__|    |____|__|__|_____|__| |_____||__|  
 ```
 
-
-
-Please visit my pages:
-- https://dev-notes.pl
-- https://piotrnarel.pl
-
-
-
 <!--
 **PiotrNarel/PiotrNarel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

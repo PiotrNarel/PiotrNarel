@@ -6,6 +6,8 @@
 |___|___|__|    |____|__|__|_____|__| |_____||__|  
 ```
 
+![Piotr Narel Stats](https://github-readme-stats.vercel.app/api?username=piotrnarel&show_icons=true&theme=dark)
+
 <!--
 **PiotrNarel/PiotrNarel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

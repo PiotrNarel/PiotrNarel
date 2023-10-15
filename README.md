@@ -10,6 +10,6 @@
 
 <!--
 
-![Piotr Narel Stats](https://github-readme-stats.vercel.app/api?username=piotrnarel&show_icons=true&theme=dark)
+![Piotr Narel Stats](https://github-readme-stats.vercel.app/api?username=piotrnarel&show_icons=true&theme=dark&rank_icon=github)
 
 -->

@@ -6,8 +6,12 @@
 |___|___|__|    |____|__|__|_____|__| |_____||__|  
 ```
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=piotrnarel&show_icons=true&theme=dark&rank_icon=github" />
 
-
+Please visit my pages:
+- https://dev-notes.pl
+- https://piotrnarel.pl
+  
 <!--
 
 ![Piotr Narel Stats](https://github-readme-stats.vercel.app/api?username=piotrnarel&show_icons=true&theme=dark&rank_icon=github)

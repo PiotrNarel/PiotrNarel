@@ -7,13 +7,13 @@
 ```
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=piotrnarel&show_icons=true&theme=dark&rank_icon=github" />
 
-About:
+## About:
 - Software Developer / Engineer / Craftsman
 - DIY enthusiast
 - Old motorbike (restoration also) enthusiast
 - Motorcycle traveller
 
 
-Please visit my pages:
+## Please visit my pages:
 - https://dev-notes.pl
 - https://piotrnarel.pl

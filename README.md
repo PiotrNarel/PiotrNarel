@@ -12,8 +12,3 @@
 - DIY enthusiast
 - Old motorbike (restoration also) enthusiast
 - Motorcycle traveller
-
-
-### Please visit my pages:
-- https://dev-notes.pl
-- https://piotrnarel.pl

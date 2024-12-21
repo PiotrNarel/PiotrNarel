@@ -9,6 +9,6 @@
 
 ### About:
 - Software Developer / Engineer / Craftsman
-- DIY enthusiast
-- Old motorbike (restoration also) enthusiast
+- DIY lover
+- Old motorbikes enthusiast
 - Motorcycle traveller
